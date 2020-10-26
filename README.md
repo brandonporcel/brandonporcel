@@ -1,4 +1,4 @@
-### Hi there 👋
+### Eu, Cómo Estas?👋
 
 <!--
 **brandonporcel/brandonporcel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Gracias por pasarte por acá, en mi perfil vas a poder ver lo que tengo en la cabeza y qué puedo hacer con esa informacion.
+Estos proyectos fueron hechos con la paciencia requerida, siempre se dio lo mejor. Espero que puedas disfrutarlos como yo cuando los estaba haciendo.
+Cualquier duda,queja,opinion me la pueden decir por [Instagram](https://instagram.com/brandonporcel/), [Twitter](https://twitter.com/rustico_b) o [Linkedin](https://www.linkedin.com/in/brandon-porcel-1952101a9/)
+")
+<br><br>
+![aa](https://user-images.githubusercontent.com/66080281/97233815-59a2d200-17be-11eb-8e6c-9e295056b643.jpg)
