@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Gracias por pasarte por acá, en mi perfil vas a poder ver lo que tengo en la cabeza y qué puedo hacer con esa informacion.
+<br>
 Estos proyectos fueron hechos con la paciencia requerida, siempre se dio lo mejor. Espero que puedas disfrutarlos como yo cuando los estaba haciendo.
+<br>
 Cualquier duda,queja,opinion me la pueden decir por [Instagram](https://instagram.com/brandonporcel/), [Twitter](https://twitter.com/rustico_b) o [Linkedin](https://www.linkedin.com/in/brandon-porcel-1952101a9/)
 ")
 <br><br>
